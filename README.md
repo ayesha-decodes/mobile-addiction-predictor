@@ -168,7 +168,7 @@ Smartphone-Addiction-Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Smartphone-Addiction-Prediction.git
+git clone https://github.com/ayesha-decodes/Smartphone-Addiction-Prediction.git
 ```
 
 Go to the project folder
